@@ -1,4 +1,14 @@
+![IMG_4044](https://github.com/user-attachments/assets/82a306f2-c5d1-4e77-ac9f-14a413204f65)
 ## Hi there 👋
+If you look closely in the image above, you might be able to see me making my way through the endless journey of coding 👨🏻‍💻
+
+For as long as I can remember, technology has fascinated me. I remember as a child getting a hand-me-down Windows 95 PC 💾 (massive, heavy and 90’s beige) and poring over every single setting and menu I could find, opening up every program and exploring as much as I could. 
+ 
+This passion grew into my adult life, where I became immersed first in Apple hardware and software, and then into the complex and technical world of custom-built PCs. Finally, I needed to understand what was going on under the hood of all my favourite technologies, which led me into the world of development. After completing a 9-week, full-time intensive Web Development bootcamp that provided me a solid foundation, the journey begins…
+
+Above all of this however, is my connection to people. I love getting to know new people, working with and learning from them. I greatly value and am fortunate to have connected with so many amazing individuals over the course of my life. In all of my journeys, I have become known as the person who can find something relatable or interesting in anyone. And I think when personality and technology combine, that’s where the real magic happens. In a world where AI and LLMs are quickly taking over every aspect of our lives, this makes it even more paramount that we preserve our individuality, and what makes us each uniquely human.
+
+I am always eager to connect with like-minded individuals who share a passion for technology and human connection. Please don’t hesitate to reach out so we can change a little bit of the world together 🌎🌍🌏
 
 <!--
 **sugihenson/sugihenson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
